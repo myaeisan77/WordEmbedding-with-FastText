@@ -1,3 +1,3 @@
 # WordEmbedding-with-FastText
 
-This is experiment for wordembedding with FastText on Myanmar data
+This notebook is a tutorial for wordembedding with FastText on Myanmar data
